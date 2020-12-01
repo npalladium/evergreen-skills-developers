@@ -154,7 +154,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Database design
  * ORM
  * Session handling
- * Error Handling, Auditing and Logging
+ * Error Handling, Auditing, Logging and Monitoring
 
 #### Architecture & infrastructure
 
